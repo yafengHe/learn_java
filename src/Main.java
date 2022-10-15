@@ -3,6 +3,9 @@ public class Main {
         System.out.println("Hello world!");
         Main main = new Main();
         System.out.println(main.fibonacci(6));
+        final int a;
+        a = 10;
+        System.out.println(a);
     }
 
     public int fibonacci(int n) {
