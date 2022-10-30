@@ -14,6 +14,7 @@ public class BookStore {
      * @param identity 身份标识 管理员：5折 vip会员 8折 普通用户 不打折
      */
     public void buyBook(double price, int identity) {
+        int a = '2';
         switch (identity) {
             case BOOKSTORE_ADMIN:
                 System.out.println("尊敬的用户，您买的商品的价格是" + price * 0.5);
