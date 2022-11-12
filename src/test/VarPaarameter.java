@@ -1,3 +1,5 @@
+package test;
+
 public class VarPaarameter {
     String age = "18";
     public static void main(String[] args) {

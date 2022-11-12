@@ -1,3 +1,5 @@
+package test;
+
 public class FinalAndStatic {
     public static int age;
 

@@ -1,3 +1,5 @@
+package test;
+
 public class ConstructorExercise {
     public static void main(String[] args) {
         Person p = new Person("13", 6);

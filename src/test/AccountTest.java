@@ -1,3 +1,5 @@
+package test;
+
 public class AccountTest {
     public static void main(String[] args) {
         Account account = new Account("李银河", 15, "111111");

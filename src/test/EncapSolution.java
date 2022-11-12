@@ -1,3 +1,5 @@
+package test;
+
 public class EncapSolution {
     public static void main(String[] args) {
         PersonObj personObj = new PersonObj("向三", 121, 121.11);
